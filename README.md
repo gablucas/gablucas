@@ -15,11 +15,13 @@ Uma To Do List criada utilizando React, com funcionalidades de um sistema CRUD.
 
 > Repositório: https://github.com/gablucas/todo-list-react
 
+
 ### Dogs - Rede social de cachorro
 Uma rede social de cachorros. Criada com o auxílio do curso utilizando o React
 > Site: https://gablucas.github.io/curso-origamid-site-dogs-react/
 
 > Repositório: https://github.com/gablucas/curso-origamid-site-dogs-react
+
 
 ### OHAI Longboards - Skate Shop
 Uma Skate Shop Online, criada utilizando JavaScript puro, com design feito no FIGMA.
@@ -28,6 +30,7 @@ Uma Skate Shop Online, criada utilizando JavaScript puro, com design feito no FI
 > Repositório: https://github.com/gablucas/site-longboard-loja
 
 > Figma: https://www.figma.com/file/oMf90s5VAXpbHS8tDYlovP/Longboard-Shop?node-id=1203%3A963&t=2HEmJ7CThWJePC8g-1
+
 
 ### Maple Story Clicker - Game Clicker
 Um game clicker, criado utilizando JavaScript puro e HTML e CSS para fazer toda interface
