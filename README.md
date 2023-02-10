@@ -11,9 +11,9 @@
 
 ### My Brain - To Do List
 Uma To Do List criada utilizando React, com funcionalidades de um sistema CRUD.
-> Site: https://gablucas.github.io/todo-list-react/
+> Site: https://gablucas.github.io/mybrain-todolist-react/
 
-> Repositório: https://github.com/gablucas/todo-list-react
+> Repositório: https://github.com/gablucas/mybrain-todolist-react/
 
 
 ### Dogs - Rede social de cachorro
