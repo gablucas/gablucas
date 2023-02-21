@@ -13,14 +13,13 @@
 Uma To Do List criada utilizando React, com funcionalidades de um sistema CRUD.
 > Site: https://gablucas.github.io/mybrain-todolist-react/
 
-> Repositório: https://github.com/gablucas/mybrain-todolist-react/
-
+> Repositório: https://github.com/gablucas/mybrain-todolist-react/tree/main
 
 ### Dogs - Rede social de cachorro
 Uma rede social de cachorros. Criada com o auxílio do curso utilizando o React
 > Site: https://gablucas.github.io/curso-origamid-site-dogs-react/
 
-> Repositório: https://github.com/gablucas/curso-origamid-site-dogs-react
+> Repositório: https://github.com/gablucas/curso-origamid-site-dogs-react/tree/main
 
 
 ### OHAI Longboards - Skate Shop
