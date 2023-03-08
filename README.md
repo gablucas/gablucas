@@ -7,23 +7,29 @@
   <img width='32' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
-## Veja meus principais projetos
+## Meus projetos
 
-### My Brain - To Do List
-Uma To Do List criada utilizando React, com funcionalidades de um sistema CRUD.
+### Pokemon Battle Cards
+Uma game de batalha de cards.
+> Site: https://gablucas.github.io/battlecards-pokemon-react/
+
+> Repositório: https://github.com/gablucas/battlecards-pokemon-react/tree/main
+
+### My Brain
+Uma To Do List criada utilizando React.
 > Site: https://gablucas.github.io/mybrain-todolist-react/
 
 > Repositório: https://github.com/gablucas/mybrain-todolist-react/tree/main
 
-### Dogs - Rede social de cachorro
-Uma rede social de cachorros. Criada com o auxílio do curso utilizando o React
+### Dogs
+Uma rede social de cachorros.
 > Site: https://gablucas.github.io/curso-origamid-site-dogs-react/
 
 > Repositório: https://github.com/gablucas/curso-origamid-site-dogs-react/tree/main
 
 
-### OHAI Longboards - Skate Shop
-Uma Skate Shop Online, criada utilizando JavaScript puro, com design feito no FIGMA.
+### OHAI Longboards
+Uma Skate Shop Online.
 > Site: https://gablucas.github.io/site-longboard-loja/
 
 > Repositório: https://github.com/gablucas/site-longboard-loja
@@ -31,8 +37,8 @@ Uma Skate Shop Online, criada utilizando JavaScript puro, com design feito no FI
 > Figma: https://www.figma.com/file/oMf90s5VAXpbHS8tDYlovP/Longboard-Shop?node-id=1203%3A963&t=2HEmJ7CThWJePC8g-1
 
 
-### Maple Story Clicker - Game Clicker
-Um game clicker, criado utilizando JavaScript puro e HTML e CSS para fazer toda interface
+### Maple Story Clicker
+Um game RPG clicker.
 > Site: https://gablucas.github.io/game-maplestory-clicker/
 
 > Repositório: https://github.com/gablucas/game-maplestory-clicker
