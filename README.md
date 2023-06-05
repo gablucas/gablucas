@@ -15,6 +15,8 @@ E-commerce.
 
 > Repositório: https://github.com/gablucas/radstore-react/tree/main
 
+> Figma: https://www.figma.com/file/Swtnn1dgpnW2gn4U6WCtR9/Radical-Store?type=design&node-id=0%3A1&t=aqIH9jm6i247beL4-1
+
 ### Pokemon Battle Cards
 Uma game de batalha de cards.
 > Site: https://gablucas.github.io/battlecards-pokemon-react/
