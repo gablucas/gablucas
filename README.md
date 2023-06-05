@@ -9,6 +9,12 @@
 
 ## Meus projetos
 
+### Rad Store
+E-commerce.
+> Site: https://gablucas.github.io/radstore-react/
+
+> Repositório: https://github.com/gablucas/radstore-react/tree/main
+
 ### Pokemon Battle Cards
 Uma game de batalha de cards.
 > Site: https://gablucas.github.io/battlecards-pokemon-react/
@@ -27,9 +33,8 @@ Uma rede social de cachorros.
 
 > Repositório: https://github.com/gablucas/curso-origamid-site-dogs-react/tree/main
 
-
 ### OHAI Longboards
-Uma Skate Shop Online.
+E-commerce.
 > Site: https://gablucas.github.io/site-longboard-loja/
 
 > Repositório: https://github.com/gablucas/site-longboard-loja
