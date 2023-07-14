@@ -9,6 +9,12 @@
 
 ## Meus projetos
 
+### LearnQuest (Em desenvolvimento)
+Plataforma de ensino gamificada.
+> Site: https://gablucas.github.io/learnquest-react-ts/
+
+> Repositório: https://github.com/gablucas/learnquest-react-ts/tree/main
+
 ### Rad Store
 E-commerce.
 > Site: https://gablucas.github.io/radstore-react/
