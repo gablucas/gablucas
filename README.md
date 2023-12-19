@@ -1,9 +1,13 @@
 # Gabriel Lucas Pegoretti
 ## Meus projetos
 
-### SaveMySavings (Em desenvolvimento)
+### MyBrain
+Aplicação Full Stack de lista de tarefas.
+> Repositório: https://github.com/gablucas/MyBrain-aspnet-react
+
+### SaveMySavings
 Aplicação Full Stack para controler financeiro.
-> Repositório: [https://github.com/gablucas/learnquest-react-ts/tree/main](https://github.com/gablucas/SaveMySavings-aspnet-react)
+> Repositório: https://github.com/gablucas/SaveMySavings-aspnet-react
 
 ### LearnQuest
 Plataforma de ensino gamificada.
